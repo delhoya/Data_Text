@@ -6,9 +6,6 @@ https://jeong-pro.tistory.com/143?category=793347
 출처: https://jeong-pro.tistory.com/143?category=793347 [기본기를 쌓는 정아마추어 코딩블로그]
 
 
-
-
-
 https://medium.com/@whj2013123218/%EC%98%A4%ED%94%88-api%EB%A5%BC-%ED%86%B5%ED%95%9C-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-e1dd0ad203b6
 
 글의 목표에 대해서는 썼으므로 절차에 대해 간략하게 언급하겠다. 우리는 서울열린데이터광장에서 ‘서울시 골목상권 프로파일 정보(상권-추정유동인구)’를 수집하는 것을 목표로 한다.
@@ -18,8 +15,9 @@ https://medium.com/@whj2013123218/%EC%98%A4%ED%94%88-api%EB%A5%BC-%ED%86%B5%ED%9
 
 필요한 모듈: pandas, bs4, requests
 
-
-
-
 https://brunch.co.kr/@choikyunghe/64
 OPEN API 구글 
+
+
+https://steemit.com/api/@ineedthesleep/api-1
+구글 스프레드 시트 & 거래소 실시간 API 구축 
